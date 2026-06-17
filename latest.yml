@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.4
 files:
-  - url: VeriForge-AI-Setup-1.0.0.exe
-    sha512: bTsuTaJVy7EVl6xzhIp4skPFQW5y0KXE2RBAWO1OboH+Ws70ds3fkmm8CVKzTxV7h4UX1rQd5qPkOYw+ZXO6hw==
-    size: 790425875
-path: VeriForge-AI-Setup-1.0.0.exe
-sha512: bTsuTaJVy7EVl6xzhIp4skPFQW5y0KXE2RBAWO1OboH+Ws70ds3fkmm8CVKzTxV7h4UX1rQd5qPkOYw+ZXO6hw==
-releaseDate: '2026-05-07T14:51:26.509Z'
+  - url: RTLyn-Setup-1.0.4.exe
+    sha512: 6mdaKUBQ9qcnL0GHrzb2T+n7U48y32rpsgM/dThyBo9FzRdmz4D3oA53Mv387zs16GZQyNh3kFMAPAmOjl+d9w==
+    size: 860016860
+path: RTLyn-Setup-1.0.4.exe
+sha512: 6mdaKUBQ9qcnL0GHrzb2T+n7U48y32rpsgM/dThyBo9FzRdmz4D3oA53Mv387zs16GZQyNh3kFMAPAmOjl+d9w==
+releaseDate: '2026-06-17T14:22:44.623Z'
